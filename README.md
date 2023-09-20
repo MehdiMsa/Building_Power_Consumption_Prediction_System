@@ -15,11 +15,11 @@ This project aims to predict the power consumption of a building based on variou
 
 1. Clone the repository: 
     ```bash
-    git clone <repository-link>
+    git clone https://github.com/MehdiMsa/Building_Power_Consumption_Prediction_System
     ```
 2. Navigate to the repository's directory and open the Jupyter Notebook:
     ```bash
-    cd <repository-name>
+    cd Building_Power_Consumption_Prediction_System
     jupyter lab
     ```
 
